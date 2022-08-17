@@ -4,16 +4,17 @@
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-339AF0?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/c-C0C0C0?style=for-the-badge&logo=ClogoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>  
+<img src="https://img.shields.io/badge/jQuery-1689D8?style=for-the-badge&logo=jQuery&logoColor=black"/>  
 <br>
 ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ : <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
