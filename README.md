@@ -10,5 +10,6 @@ I'm  :<br>
 
 <br>
 I'm interested in :<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swift-61DAFB?style=for-the-badge&logo=Swift&logoColor=white"/> 
 </div>
