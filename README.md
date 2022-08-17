@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Yejin%20Won&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Yejin%20Won&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula)
