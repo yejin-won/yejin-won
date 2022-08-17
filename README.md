@@ -28,4 +28,5 @@
 
 ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴛᴏᴏʟs : <br>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Figma-A97BCA?style=for-the-badge&logo=Figma&logoColor=white"/> 
 </div>
