@@ -24,3 +24,6 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Swift-61DAFB?style=for-the-badge&logo=Swift&logoColor=white"/> 
 </div>
+
+ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴛᴏᴏʟs : <br>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"/> 
