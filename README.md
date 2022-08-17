@@ -2,7 +2,7 @@
 
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=radical1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=dracula)
 <br>
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
