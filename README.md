@@ -30,7 +30,7 @@
 ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ ᴛᴏᴏʟs : <br>
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Figma-A97BCA?style=for-the-badge&logo=Figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Miro-FCDE36?style=for-the-badge&logo=Miro&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Miro-FFA500?style=for-the-badge&logo=Miro&logoColor=black"/> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/githubDesktop-004088?style=for-the-badge&logo=githubDesktop&logoColor=white"/>
