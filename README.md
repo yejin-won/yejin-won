@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F8DC75&height=250&section=header&text=Yejin%20Won&fontColor=d6ace6&fontSize=50" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1/)
 <br>
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
