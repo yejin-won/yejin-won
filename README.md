@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F8DC75&height=250&section=header&text=Yejin%20Won&fontColor=d6ace6&fontSize=50" />
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <div>
