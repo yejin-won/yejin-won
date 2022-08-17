@@ -9,7 +9,7 @@ I'm  :<br>
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <br>
 <br>
-I'm interested in :<br>
+I'm interested in : <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Swift-61DAFB?style=for-the-badge&logo=Swift&logoColor=white"/> 
 </div>
