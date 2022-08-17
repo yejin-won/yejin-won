@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/jQuery-1689D8?style=for-the-badge&logo=jQuery&logoColor=black"/>  
 <img src="https://img.shields.io/badge/JSON-9895A9?style=for-the-badge&logo=JSON&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> 
+<br>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black"/>   
 
 <br>
 ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ : <br>
