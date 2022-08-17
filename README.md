@@ -3,7 +3,7 @@
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1&theme=ruby)](https://solved.ac/sqkeka1/)
 <br>
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
