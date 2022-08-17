@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F8DC75&height=200&section=header&text=Yejin%20Won&fontColor=d6ace6&fontSize=50" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
