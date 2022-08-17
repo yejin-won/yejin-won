@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>  
 <img src="https://img.shields.io/badge/jQuery-1689D8?style=for-the-badge&logo=jQuery&logoColor=black"/>  
-<img src="https://img.shields.io/badge/JSON-9895A9?style=for-the-badge&logo=JSON&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JSON-9895A9?style=for-the-badge&logo=JSON&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 
 <br>
 ɪ'ᴠᴇ ᴜsᴇᴅ ᴀᴛ ʟᴇᴀsᴛ ᴏɴᴄᴇ : <br>
