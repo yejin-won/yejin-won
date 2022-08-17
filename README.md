@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge?label=Python?style=plastic&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/endpoint?label=Python?style=plastic&logo=python&logoColor=yellow"/>
