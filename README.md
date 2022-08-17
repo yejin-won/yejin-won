@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=F8DC75&height=200&section=header&text=Yejin%20Won&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=F8DC75&height=200&section=header&text=Yejin%20Won&fontColor=d6ace6&fontSize=90" />
 
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
