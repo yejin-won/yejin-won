@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=#3776AB&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=Python&logoColor=blue"/></a>
