@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=Yejin%20Won&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=Yejin%20Won&fontAlign=70) <!--상단 꾸미기(참고로 color gridient는 랜덤임)-->
 
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula) <!--커밋을 얼마나 했는가-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=dracula) <!--어떤 언어를 주로 썻는가-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1/) <!--백준 계정있으면 하면 됨-->
 <br>
 <div>
 ᴛᴇᴄʜ sᴋɪʟʟs : <br>  
