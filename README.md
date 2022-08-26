@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=Yejin%20Won&fontAlign=70) <!--상단 꾸미기(참고로 color gridient는 랜덤임)-->
 
 <br><br>
-<div align = center>Hello I'm Yejin Won and a growing developer who enjoy learning about programming Languages and others</div> <!--소개글-->
+ɪɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ : <br>
+ʜᴇʟʟᴏ ɪ'ᴍ ʏᴇᴊɪɴ ᴡᴏɴ ᴀɴᴅ ᴀ ɢʀᴏᴡɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴡʜᴏ ᴇɴᴊᴏʏ ʟᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴏᴛʜᴇʀs <!--소개글-->
 <br><br>
 
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
