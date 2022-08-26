@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&text=Yejin%20Won&fontAlign=70) <!--상단 꾸미기(참고로 color gridient는 랜덤임)-->
 
+
+<div align = center>Hello I'm Yejin Won and a growing developer who enjoy learning about programming Languages and others</div> <!--소개글-->
+
+
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejin-won&show_icons=true&theme=dracula) <!--커밋을 얼마나 했는가-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejin-won&layout=compact&theme=dracula) <!--어떤 언어를 주로 썻는가-->
